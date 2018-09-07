@@ -1,6 +1,6 @@
 ---?image=assets/world.jpeg
 @snap[north-east]
-@color[silver](Hello World!)
+## @color[silver](Hello World!)
 @snapend
 ---?image=assets/plain.jpeg
 
