@@ -1,10 +1,10 @@
 ---?image=assets/world.jpeg
 
-Hello World!
+@color[silver](Hello World!)
 
 ---?image=assets/plain.jpeg
 
----?image=assets/hills.jpeg
+---?image=assets/hills_1.jpg
 
 ---?image=assets/mountain.jpg
 
@@ -12,4 +12,4 @@ Hello World!
 
 ---?image=assets/lakes.jpeg
 
----?image=assets/ocean.jpeg
+---?image=assets/Ocean.jpeg
