@@ -1,7 +1,7 @@
 ---?image=assets/world.jpeg
-
+@snap[north-east]
 @color[silver](Hello World!)
-
+@snapend
 ---?image=assets/plain.jpeg
 
 ---?image=assets/hills_1.jpg
