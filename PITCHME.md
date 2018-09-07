@@ -1,5 +1,5 @@
 ---?image=assets/world.jpeg
-@snap[east]
+@snap[north-east]
 <h1>@color[silver](Hello World!)</h1>
 @snapend
 ---?image=assets/plain.jpeg
