@@ -13,3 +13,5 @@
 ---?image=assets/lakes.jpeg
 
 ---?image=assets/Ocean.jpeg
+
+---?image=assets/worldmap.jpg
