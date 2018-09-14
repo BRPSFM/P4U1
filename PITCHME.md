@@ -15,3 +15,49 @@
 ---?image=assets/Ocean.jpeg
 
 ---?image=assets/worldmap.jpg
+
+--- 
+Plain -
+--- 
+
+Plain - a large, flat area of land.
+
+---
+
+Plain - a large, flat area of land.  
+Hill -
+---
+Plain - a large, flat area of land.  
+Hill - land that is higher than that around it.
+
+---
+Plain - a large, flat area of land.  
+Hill - land that is higher than that around it and have round tops  
+Mountain -
+---
+Plain - a large, flat area of land.  
+Hill - land that is higher than that around it and have round tops  
+Mountain - are much higher than hills. They are mostly steep and rocky.
+
+---
+Lake  - 
+
+---
+
+Lake - body of fresh water that has land on all sides  
+River -
+---
+Lake - body of fresh water that has land on all sides  
+River - is a long body of fresh water.
+---
+Lake - body of fresh water that has land on all sides  
+River - is a long body of fresh water.  
+Ocean - 
+---
+Lake - body of fresh water that has land on all sides  
+River - is a long body of fresh water.  
+Ocean - is the largest body of water. It has salt water.  
+
+
+
+
