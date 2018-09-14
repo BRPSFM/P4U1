@@ -37,7 +37,7 @@ Mountain -
 ---
 Plain - a large, flat area of land.  
 Hill - land that is higher than that around it and have round tops  
-Mountain - are much higher than hills. They are mostly steep and rocky.
+Mountain - is much higher a than hill. They are mostly steep and rocky.
 
 ---
 Lake  - 
@@ -57,6 +57,39 @@ Ocean -
 Lake - body of fresh water that has land on all sides  
 River - is a long body of fresh water.  
 Ocean - is the largest body of water. It has salt water.  
+
+---
+
+### Let's compare.
+
+What is similar?  
+
+X and Y both have grass.
+
+---
+
+### Let's compare.
+
+What is similar?  
+
+hill and plain both have grass.
+
+---
+
+### Let's compare.
+
+What is different?  
+
+X is higher than Y.
+
+---
+
+### Let's compare.
+
+What is different?  
+
+mountain is higher than hill.
+hill is higher than plain.
 
 ---
  What are the similarities(same) and the differences?
