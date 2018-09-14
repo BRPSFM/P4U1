@@ -68,4 +68,5 @@ Ocean - is the largest body of water. It has salt water.
 ---
 
 X - Both hills and mountains are higher than plains
+X - Mountains are more steep than hills
 
