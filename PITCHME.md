@@ -65,3 +65,7 @@ Ocean - is the largest body of water. It has salt water.
 
 ---?image=assets/venn-land.jpeg&position=bottom&size=60% 100%
 
+---
+
+X - Both hills and mountains are higher than plains
+
