@@ -58,14 +58,10 @@ Lake - body of fresh water that has land on all sides
 River - is a long body of fresh water.  
 Ocean - is the largest body of water. It has salt water.  
 
-
+---
+ What are the similarities(same) and the differences?
 
 ---?image=assets/venn.jpeg&position=bottom&size=60% 100%
-@snap[north]
-### What are the similarities(same) and the differences?
-@snapend
 
 ---?image=assets/venn-land.jpeg&position=bottom&size=60% 100%
-@snap[north]
-### What are the similarities(same) and the differences?
-@snapend
+
