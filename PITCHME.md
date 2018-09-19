@@ -100,7 +100,7 @@ hill is higher than plain.
 
 ---
 
-A mountain is ______ ______  a hill.  
+A mountain is "________" ______  a hill.  
 A plain is ______ ______ a hill.  
 Both rivers and lakes have ______ ________.
 
