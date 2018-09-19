@@ -100,17 +100,20 @@ hill is higher than plain.
 
 ---
 
-A mountain is ______ ______  a hill.
-A plain is ______ ______ a hill.
+A mountain is ______ ______  a hill.  
+A plain is ______ ______ a hill.  
 Both rivers and lakes have ______ ________.
 
 ---
 
-A mountain is @color[blue](higher than) a hill.
-A plain is @color[blue](flatter than) a hill.
+A mountain is @color[blue](higher than) a hill.  
+A plain is @color[blue](flatter than) a hill.  
 Both rivers and lakes have @color[blue](fresh water).
 
+---?image=assets/venn-land.jpeg&position=bottom&size=60% 100%
+
 ---
+
 
 X - Mountains are more steep than hills
 
